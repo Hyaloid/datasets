@@ -1,5 +1,3 @@
-# Download datasets
-
 ## First, download .tar and save them in `$(pwd)/imagenet` folder
 
 ```shell
